@@ -1,0 +1,1076 @@
+[
+  {
+    "title": "Burns and Scalds",
+    "identify": "Skin becomes red, painful, may develop blisters",
+    "immediate_steps": [
+      "Cool the burn under running water for at least 20 minutes",
+      "Remove tight items like rings or watches",
+      "Cover with a clean non-stick dressing"
+    ],
+    "avoid": [
+      "Do not apply ice, creams, butter, or oils"
+    ],
+    "emergency": "Seek medical help if burn is large, deep, or on sensitive areas",
+    "source": "NHS, Red Cross"
+  },
+  {
+    "title": "Severe Bleeding",
+    "identify": "Heavy and continuous blood loss, weakness or dizziness",
+    "immediate_steps": [
+      "Apply firm pressure with a clean cloth or bandage",
+      "Maintain pressure",
+      "Raise the injured area if possible"
+    ],
+    "avoid": [
+      "Do not remove soaked dressings; add another layer instead"
+    ],
+    "emergency": "Call emergency services if bleeding does not stop quickly",
+    "source": "NHS, Red Cross"
+  },
+  {
+    "title": "Nosebleed",
+    "identify": "Bleeding from the nose, often after injury or dryness",
+    "immediate_steps": [
+      "Sit upright and lean forward",
+      "Pinch the soft part of the nose for 10 minutes"
+    ],
+    "avoid": [
+      "Do not tilt head backward",
+      "Do not blow nose immediately after"
+    ],
+    "emergency": "Seek help if bleeding lasts more than 20 minutes",
+    "source": "NHS"
+  },
+  {
+    "title": "Choking (Adult)",
+    "identify": "Difficulty breathing, inability to speak, clutching throat",
+    "immediate_steps": [
+      "Give up to 5 back blows between shoulder blades",
+      "If ineffective, perform abdominal thrusts"
+    ],
+    "avoid": [
+      "Do not give food or water",
+      "Do not hit randomly"
+    ],
+    "emergency": "If unconscious, begin CPR immediately",
+    "source": "NHS, Red Cross"
+  },
+  {
+    "title": "Stroke",
+    "identify": "Face drooping, arm weakness, speech difficulty (FAST signs)",
+    "immediate_steps": [
+      "Call emergency services immediately",
+      "Keep person calm",
+      "Note time symptoms started"
+    ],
+    "avoid": [
+      "Do not give food or drink",
+      "Do not delay response"
+    ],
+    "emergency": "Immediate treatment required",
+    "source": "NHS, Red Cross"
+  },
+  {
+    "title": "Fainting",
+    "identify": "Sudden collapse, dizziness, temporary loss of consciousness",
+    "immediate_steps": [
+      "Lay the person flat",
+      "Raise legs slightly",
+      "Loosen tight clothing"
+    ],
+    "avoid": [
+      "Do not give food or drink immediately",
+      "Do not leave unattended"
+    ],
+    "emergency": "Seek help if unconsciousness persists",
+    "source": "NHS"
+  },
+  {
+    "title": "Broken Bone",
+    "identify": "Severe pain, swelling, possible deformity",
+    "immediate_steps": [
+      "Keep the injured area still",
+      "Support with splint",
+      "Apply cold pack to reduce swelling"
+    ],
+    "avoid": [
+      "Do not attempt to realign the bone",
+      "Do not move unnecessarily"
+    ],
+    "emergency": "Immediate medical attention required",
+    "source": "NHS, Red Cross"
+  },
+  {
+    "title": "Shortness of Breath",
+    "identify": "Difficulty breathing, rapid breathing, chest tightness",
+    "immediate_steps": [
+      "Help the person sit upright",
+      "Loosen tight clothing",
+      "Ensure fresh air"
+    ],
+    "avoid": [
+      "Do not make the person lie flat",
+      "Do not ignore symptoms"
+    ],
+    "emergency": "Call emergency if breathing becomes severe",
+    "source": "NHS"
+  },
+  {
+    "title": "Poisoning",
+    "identify": "Nausea, vomiting, confusion, burns around mouth",
+    "immediate_steps": [
+      "Call emergency services immediately",
+      "Identify substance if possible",
+      "Keep person calm"
+    ],
+    "avoid": [
+      "Do not induce vomiting",
+      "Do not give food or drink"
+    ],
+    "emergency": "Immediate medical attention required",
+    "source": "NHS"
+  },
+  {
+    "title": "Cardiac Arrest",
+    "identify": "Unconscious, not breathing normally",
+    "immediate_steps": [
+      "Call emergency services immediately",
+      "Start chest compressions (100–120 per minute)",
+      "Continue CPR"
+    ],
+    "avoid": [
+      "Do not delay CPR",
+      "Do not stop unless help arrives"
+    ],
+    "emergency": "Continue until professional help arrives",
+    "source": "NHS, Red Cross"
+  },
+  {
+    "title": "Burn from hot oil while cooking",
+    "identify": "Skin is red, painful, may blister after oil spill",
+    "immediate_steps": ["Run cool water for 10 minutes", "Remove rings or tight items", "Cover with clean cloth"],
+    "avoid": ["Do not apply ice", "Do not apply toothpaste or butter"],
+    "emergency": "Hospital if burn is deep or large",
+    "source": "Red Cross"
+  },
+  {
+    "title": "Steam burn from pressure cooker",
+    "identify": "Skin burn due to steam exposure",
+    "immediate_steps": ["Cool under running water", "Cover loosely with cloth"],
+    "avoid": ["Do not break blisters"],
+    "emergency": "Seek help if severe",
+    "source": "WHO"
+  },
+  {
+    "title": "Chemical burn from cleaning liquid",
+    "identify": "Burning sensation after chemical contact",
+    "immediate_steps": ["Wash area with lots of water", "Remove contaminated clothes"],
+    "avoid": ["Do not apply creams immediately"],
+    "emergency": "Visit hospital urgently",
+    "source": "WHO"
+  },
+  {
+    "title": "Electric burn from exposed wire",
+    "identify": "Burn marks after electric shock",
+    "immediate_steps": ["Turn off power source", "Do not touch directly", "Call emergency help"],
+    "avoid": ["Do not use water near electricity"],
+    "emergency": "Immediate hospital care required",
+    "source": "Red Cross"
+  },
+  {
+    "title": "Sunburn after long sun exposure",
+    "identify": "Red, hot, painful skin after sun",
+    "immediate_steps": ["Move to shade", "Apply cool cloth", "Drink water"],
+    "avoid": ["Do not scratch skin"],
+    "emergency": "Hospital if fever or blisters",
+    "source": "NHS"
+  },
+
+  {
+    "title": "Deep cut from kitchen knife",
+    "identify": "Bleeding from sharp cut",
+    "immediate_steps": ["Press firmly with cloth", "Raise injured area"],
+    "avoid": ["Do not wash deep wound immediately"],
+    "emergency": "If bleeding continues after 10 minutes",
+    "source": "WHO"
+  },
+  {
+    "title": "Glass cut on foot",
+    "identify": "Bleeding due to stepping on glass",
+    "immediate_steps": ["Remove visible glass carefully", "Apply pressure"],
+    "avoid": ["Do not walk on injured foot"],
+    "emergency": "Hospital if glass is deep inside",
+    "source": "Red Cross"
+  },
+  {
+    "title": "Nose bleeding suddenly",
+    "identify": "Blood flowing from nose",
+    "immediate_steps": ["Sit upright", "Pinch nose for 10 minutes"],
+    "avoid": ["Do not tilt head back"],
+    "emergency": "If bleeding continues beyond 15 minutes",
+    "source": "NHS"
+  },
+  {
+    "title": "Head cut after fall",
+    "identify": "Bleeding from head wound",
+    "immediate_steps": ["Apply clean cloth pressure", "Keep person still"],
+    "avoid": ["Do not press too hard"],
+    "emergency": "Hospital immediately",
+    "source": "WHO"
+  },
+  {
+    "title": "Finger cut while chopping vegetables",
+    "identify": "Small bleeding cut on finger",
+    "immediate_steps": ["Wash with clean water", "Apply bandage"],
+    "avoid": ["Do not ignore infection signs"],
+    "emergency": "If swelling or pus forms",
+    "source": "Red Cross"
+  },
+
+  {
+    "title": "Choking on food (adult)",
+    "identify": "Person cannot speak or breathe",
+    "immediate_steps": ["Give 5 back blows", "Give abdominal thrusts"],
+    "avoid": ["Do not give water"],
+    "emergency": "Call emergency if unconscious",
+    "source": "Red Cross"
+  },
+  {
+    "title": "Choking on small object",
+    "identify": "Airway blocked by object",
+    "immediate_steps": ["Back blows and thrusts", "Check mouth carefully"],
+    "avoid": ["Do not put fingers blindly"],
+    "emergency": "Emergency services if not cleared",
+    "source": "WHO"
+  },
+  {
+    "title": "Fainting due to heat",
+    "identify": "Sudden collapse in hot weather",
+    "immediate_steps": ["Lay flat", "Raise legs", "Loosen clothes"],
+    "avoid": ["Do not crowd person"],
+    "emergency": "If unconscious for more than 1 minute",
+    "source": "NHS"
+  },
+  {
+    "title": "Fainting due to weakness",
+    "identify": "Dizziness and blackout",
+    "immediate_steps": ["Lay down", "Provide fresh air"],
+    "avoid": ["Do not give food immediately"],
+    "emergency": "If not regaining consciousness",
+    "source": "WHO"
+  },
+  {
+    "title": "CPR needed after collapse",
+    "identify": "Unconscious and not breathing",
+    "immediate_steps": ["Call emergency", "30 compressions, 2 breaths"],
+    "avoid": ["Do not delay CPR"],
+    "emergency": "Continue till help arrives",
+    "source": "WHO"
+  },
+
+  {
+    "title": "Snake bite on leg",
+    "identify": "Two puncture marks, swelling",
+    "immediate_steps": ["Keep person calm", "Immobilize limb"],
+    "avoid": ["Do not suck venom"],
+    "emergency": "Hospital urgently",
+    "source": "WHO"
+  },
+  {
+    "title": "Dog bite wound",
+    "identify": "Teeth marks with bleeding",
+    "immediate_steps": ["Wash with soap and water", "Apply antiseptic"],
+    "avoid": ["Do not ignore vaccination need"],
+    "emergency": "Hospital for rabies shot",
+    "source": "NHS"
+  },
+  {
+    "title": "Bee sting reaction",
+    "identify": "Pain, swelling at sting site",
+    "immediate_steps": ["Remove sting carefully", "Apply cold cloth"],
+    "avoid": ["Do not scratch"],
+    "emergency": "If breathing difficulty",
+    "source": "Red Cross"
+  },
+  {
+    "title": "Allergic reaction after food",
+    "identify": "Swelling, itching, rash",
+    "immediate_steps": ["Stop eating", "Give antihistamine if available"],
+    "avoid": ["Do not ignore breathing issues"],
+    "emergency": "Call emergency if throat swelling",
+    "source": "WHO"
+  },
+  {
+    "title": "Asthma attack",
+    "identify": "Difficulty breathing, wheezing",
+    "immediate_steps": ["Help use inhaler", "Sit upright"],
+    "avoid": ["Do not make person lie down"],
+    "emergency": "If no relief after inhaler",
+    "source": "NHS"
+  },
+  {
+    "title": "Fracture suspected in arm after fall",
+    "identify": "Severe pain, swelling, cannot move arm",
+    "immediate_steps": ["Keep arm still", "Use cloth as sling", "Apply cold pack"],
+    "avoid": ["Do not try to straighten arm"],
+    "emergency": "Go to hospital immediately",
+    "source": "Red Cross"
+  },
+  {
+    "title": "Fracture suspected in leg",
+    "identify": "Cannot stand, swelling, severe pain",
+    "immediate_steps": ["Do not move leg", "Support with pillows"],
+    "avoid": ["Do not attempt to walk"],
+    "emergency": "Hospital urgently",
+    "source": "WHO"
+  },
+  {
+    "title": "Ankle sprain while walking",
+    "identify": "Pain and swelling in ankle",
+    "immediate_steps": ["Rest ankle", "Apply cold pack", "Keep elevated"],
+    "avoid": ["Do not put weight on ankle"],
+    "emergency": "If swelling increases",
+    "source": "NHS"
+  },
+  {
+    "title": "Knee injury after slipping",
+    "identify": "Pain, difficulty bending knee",
+    "immediate_steps": ["Rest knee", "Cold compress"],
+    "avoid": ["Do not force movement"],
+    "emergency": "Hospital if severe pain",
+    "source": "Red Cross"
+  },
+  {
+    "title": "Shoulder dislocation",
+    "identify": "Shoulder looks out of place, severe pain",
+    "immediate_steps": ["Keep arm still", "Support with sling"],
+    "avoid": ["Do not try to fix yourself"],
+    "emergency": "Immediate hospital care",
+    "source": "WHO"
+  },
+
+  {
+    "title": "Heat stroke in hot weather",
+    "identify": "High body temperature, confusion",
+    "immediate_steps": ["Move to cool place", "Give water", "Cool body with wet cloth"],
+    "avoid": ["Do not leave person alone"],
+    "emergency": "Call emergency services",
+    "source": "NHS"
+  },
+  {
+    "title": "Heat exhaustion",
+    "identify": "Heavy sweating, weakness",
+    "immediate_steps": ["Rest in shade", "Drink fluids"],
+    "avoid": ["Do not continue activity"],
+    "emergency": "If vomiting or unconscious",
+    "source": "WHO"
+  },
+  {
+    "title": "Hypothermia in cold weather",
+    "identify": "Shivering, cold skin, confusion",
+    "immediate_steps": ["Move to warm place", "Cover with blankets"],
+    "avoid": ["Do not rub skin hard"],
+    "emergency": "Hospital if severe",
+    "source": "Red Cross"
+  },
+  {
+    "title": "Dehydration in elderly",
+    "identify": "Dry mouth, dizziness",
+    "immediate_steps": ["Give small sips of water", "Rest"],
+    "avoid": ["Do not give alcohol"],
+    "emergency": "If confusion or fainting",
+    "source": "WHO"
+  },
+  {
+    "title": "Vomiting repeatedly",
+    "identify": "Frequent vomiting, weakness",
+    "immediate_steps": ["Give small sips of ORS", "Rest"],
+    "avoid": ["Do not give solid food"],
+    "emergency": "If blood in vomit",
+    "source": "NHS"
+  },
+
+  {
+    "title": "Diarrhea and weakness",
+    "identify": "Loose motions, dehydration signs",
+    "immediate_steps": ["Give ORS solution", "Rest"],
+    "avoid": ["Do not ignore dehydration"],
+    "emergency": "Hospital if persists",
+    "source": "WHO"
+  },
+  {
+    "title": "Food poisoning symptoms",
+    "identify": "Vomiting, stomach pain",
+    "immediate_steps": ["Drink fluids", "Rest"],
+    "avoid": ["Do not eat outside food"],
+    "emergency": "If high fever",
+    "source": "NHS"
+  },
+  {
+    "title": "Chest pain suspected heart attack",
+    "identify": "Chest pressure, sweating",
+    "immediate_steps": ["Make person sit", "Call emergency"],
+    "avoid": ["Do not ignore symptoms"],
+    "emergency": "Immediate hospital",
+    "source": "WHO"
+  },
+  {
+    "title": "Stroke warning signs",
+    "identify": "Face drooping, slurred speech",
+    "immediate_steps": ["Call emergency immediately"],
+    "avoid": ["Do not wait"],
+    "emergency": "Hospital urgently",
+    "source": "Red Cross"
+  },
+  {
+    "title": "Low blood sugar (diabetic)",
+    "identify": "Shaking, sweating, confusion",
+    "immediate_steps": ["Give sugar or juice"],
+    "avoid": ["Do not delay sugar intake"],
+    "emergency": "If unconscious",
+    "source": "WHO"
+  },
+  {
+    "title": "Nosebleed suddenly started",
+    "identify": "Blood coming from nose",
+    "immediate_steps": ["Sit upright", "Lean slightly forward", "Pinch nose for 10 minutes"],
+    "avoid": ["Do not tilt head back"],
+    "emergency": "If bleeding continues after 15 minutes",
+    "source": "NHS"
+  },
+  {
+    "title": "Object stuck in eye",
+    "identify": "Pain, tearing, cannot open eye",
+    "immediate_steps": ["Rinse eye with clean water"],
+    "avoid": ["Do not rub eye"],
+    "emergency": "If object does not come out",
+    "source": "Red Cross"
+  },
+  {
+    "title": "Soap or chemical in eye",
+    "identify": "Burning sensation in eye",
+    "immediate_steps": ["Wash eye with water for 10 minutes"],
+    "avoid": ["Do not touch eye"],
+    "emergency": "Hospital if pain continues",
+    "source": "WHO"
+  },
+  {
+    "title": "Insect entered ear",
+    "identify": "Buzzing sound, discomfort",
+    "immediate_steps": ["Tilt head to affected side"],
+    "avoid": ["Do not insert objects"],
+    "emergency": "If insect remains",
+    "source": "NHS"
+  },
+  {
+    "title": "Ear bleeding after injury",
+    "identify": "Blood from ear",
+    "immediate_steps": ["Cover ear lightly with cloth"],
+    "avoid": ["Do not plug ear"],
+    "emergency": "Immediate hospital care",
+    "source": "WHO"
+  },
+
+  {
+    "title": "Dog bite wound",
+    "identify": "Puncture wound, bleeding",
+    "immediate_steps": ["Wash with soap and water", "Apply clean cloth"],
+    "avoid": ["Do not ignore vaccination need"],
+    "emergency": "Hospital for rabies check",
+    "source": "Red Cross"
+  },
+  {
+    "title": "Cat bite",
+    "identify": "Small puncture wound",
+    "immediate_steps": ["Wash thoroughly", "Apply antiseptic"],
+    "avoid": ["Do not leave untreated"],
+    "emergency": "Doctor visit advised",
+    "source": "WHO"
+  },
+  {
+    "title": "Snake bite suspected",
+    "identify": "Two puncture marks, swelling",
+    "immediate_steps": ["Keep person calm", "Immobilize limb"],
+    "avoid": ["Do not suck venom", "Do not tie tight band"],
+    "emergency": "Rush to hospital",
+    "source": "NHS"
+  },
+  {
+    "title": "Bee sting",
+    "identify": "Painful swelling at sting site",
+    "immediate_steps": ["Remove stinger", "Apply cold pack"],
+    "avoid": ["Do not scratch"],
+    "emergency": "If breathing difficulty",
+    "source": "Red Cross"
+  },
+  {
+    "title": "Allergic reaction swelling",
+    "identify": "Swelling of face or lips",
+    "immediate_steps": ["Give antihistamine if available"],
+    "avoid": ["Do not ignore breathing issues"],
+    "emergency": "Call emergency services",
+    "source": "WHO"
+  },
+
+  {
+    "title": "Minor head injury",
+    "identify": "Mild bump, no unconsciousness",
+    "immediate_steps": ["Apply cold compress", "Rest"],
+    "avoid": ["Do not sleep immediately"],
+    "emergency": "If vomiting or confusion",
+    "source": "NHS"
+  },
+  {
+    "title": "Severe head injury",
+    "identify": "Bleeding, unconsciousness",
+    "immediate_steps": ["Do not move person", "Call emergency"],
+    "avoid": ["Do not give food or drink"],
+    "emergency": "Immediate hospital",
+    "source": "WHO"
+  },
+  {
+    "title": "Back injury after fall",
+    "identify": "Cannot move, severe back pain",
+    "immediate_steps": ["Keep still", "Call emergency"],
+    "avoid": ["Do not attempt to lift"],
+    "emergency": "Hospital urgently",
+    "source": "Red Cross"
+  },
+  {
+    "title": "Neck injury suspected",
+    "identify": "Pain, cannot turn neck",
+    "immediate_steps": ["Keep head still"],
+    "avoid": ["Do not move neck"],
+    "emergency": "Immediate medical help",
+    "source": "WHO"
+  },
+  {
+    "title": "Finger cut deeply",
+    "identify": "Deep bleeding cut",
+    "immediate_steps": ["Press with cloth", "Raise hand"],
+    "avoid": ["Do not remove cloth if soaked"],
+    "emergency": "If bleeding heavy",
+    "source": "NHS"
+  },
+  {
+    "title": "Vomiting repeatedly",
+    "identify": "Person vomiting many times",
+    "immediate_steps": ["Give small sips of water", "Let person rest"],
+    "avoid": ["Do not give solid food immediately"],
+    "emergency": "If vomiting continues for hours",
+    "source": "WHO"
+  },
+  {
+    "title": "Severe diarrhea",
+    "identify": "Loose motions frequently",
+    "immediate_steps": ["Give ORS solution", "Keep hydrated"],
+    "avoid": ["Do not give oily food"],
+    "emergency": "If signs of dehydration",
+    "source": "NHS"
+  },
+  {
+    "title": "Food poisoning suspected",
+    "identify": "Stomach pain, vomiting, diarrhea",
+    "immediate_steps": ["Give fluids", "Rest"],
+    "avoid": ["Do not take random medicines"],
+    "emergency": "If blood in vomit or stool",
+    "source": "WHO"
+  },
+  {
+    "title": "Chest pain suddenly",
+    "identify": "Tightness or pain in chest",
+    "immediate_steps": ["Make person sit calmly"],
+    "avoid": ["Do not ignore"],
+    "emergency": "Call emergency immediately",
+    "source": "Red Cross"
+  },
+  {
+    "title": "Panic attack",
+    "identify": "Fast breathing, fear, sweating",
+    "immediate_steps": ["Make person sit", "Slow breathing"],
+    "avoid": ["Do not shout"],
+    "emergency": "If not calming down",
+    "source": "NHS"
+  },
+  {
+    "title": "Electric shock mild",
+    "identify": "Tingling sensation after shock",
+    "immediate_steps": ["Turn off power source", "Check burns"],
+    "avoid": ["Do not touch with wet hands"],
+    "emergency": "If unconscious",
+    "source": "WHO"
+  },
+  {
+    "title": "Electric shock severe",
+    "identify": "Unconscious after shock",
+    "immediate_steps": ["Do not touch directly", "Call emergency"],
+    "avoid": ["Do not delay help"],
+    "emergency": "Immediate hospital",
+    "source": "Red Cross"
+  },
+  {
+    "title": "Drowning rescued from water",
+    "identify": "Unconscious, wet clothes",
+    "immediate_steps": ["Lay flat", "Start CPR if not breathing"],
+    "avoid": ["Do not shake person"],
+    "emergency": "Immediate medical help",
+    "source": "WHO"
+  },
+  {
+    "title": "High fever in elderly",
+    "identify": "Body very hot, weak",
+    "immediate_steps": ["Give water", "Keep cool cloth on forehead"],
+    "avoid": ["Do not cover with blankets"],
+    "emergency": "If fever above 103°F",
+    "source": "NHS"
+  },
+  {
+    "title": "Low body temperature",
+    "identify": "Shivering, cold skin",
+    "immediate_steps": ["Wrap in warm cloth", "Give warm drink"],
+    "avoid": ["Do not use hot water suddenly"],
+    "emergency": "If unconscious",
+    "source": "WHO"
+  },
+  {
+    "title": "Head Injury",
+    "identify": "Head pain, dizziness, confusion, possible loss of consciousness",
+    "immediate_steps": [
+      "Keep the person still and calm",
+      "Support the head and neck",
+      "Apply a cold pack to reduce swelling"
+    ],
+    "avoid": [
+      "Do not move the person unnecessarily",
+      "Do not give food or drink"
+    ],
+    "emergency": "Seek immediate medical help if unconsciousness, vomiting, or confusion occurs",
+    "source": "NHS"
+  },
+  {
+    "title": "Seizures (Fits)",
+    "identify": "Sudden shaking, loss of control, possible unconsciousness",
+    "immediate_steps": [
+      "Protect the person from injury",
+      "Place something soft under the head",
+      "Turn them on their side after movements stop"
+    ],
+    "avoid": [
+      "Do not restrain the person",
+      "Do not put anything in their mouth"
+    ],
+    "emergency": "Call emergency if seizure lasts more than 5 minutes or repeats",
+    "source": "NHS"
+  },
+  {
+    "title": "Heat Exhaustion",
+    "identify": "Heavy sweating, dizziness, weakness, headache",
+    "immediate_steps": [
+      "Move the person to a cool place",
+      "Give water",
+      "Loosen tight clothing",
+      "Cool the body with damp cloth"
+    ],
+    "avoid": [
+      "Do not ignore symptoms",
+      "Do not give alcohol or caffeine"
+    ],
+    "emergency": "Seek help if symptoms worsen or do not improve within 30 minutes",
+    "source": "NHS"
+  },
+  {
+    "title": "Heatstroke",
+    "identify": "High body temperature, confusion, lack of sweating, possible unconsciousness",
+    "immediate_steps": [
+      "Call emergency services immediately",
+      "Move to a cool place",
+      "Cool the body rapidly using water or cloth"
+    ],
+    "avoid": [
+      "Do not delay cooling",
+      "Do not give fluids if unconscious"
+    ],
+    "emergency": "This is a life-threatening condition requiring immediate care",
+    "source": "NHS"
+  },
+  {
+    "title": "Electric Shock",
+    "identify": "Burns, unconsciousness, difficulty breathing after contact with electricity",
+    "immediate_steps": [
+      "Turn off power source if safe",
+      "Do not touch person directly if still connected",
+      "Check breathing and start CPR if needed"
+    ],
+    "avoid": [
+      "Do not touch with bare hands if current is active",
+      "Do not pour water on electrical source"
+    ],
+    "emergency": "Immediate medical attention required",
+    "source": "NHS"
+  },
+  {
+    "title": "Asthma Attack",
+    "identify": "Wheezing, shortness of breath, chest tightness",
+    "immediate_steps": [
+      "Help the person sit upright",
+      "Use reliever inhaler if available",
+      "Encourage slow breathing"
+    ],
+    "avoid": [
+      "Do not make the person lie down",
+      "Do not panic the person"
+    ],
+    "emergency": "Call emergency if symptoms do not improve after inhaler use",
+    "source": "NHS"
+  },
+  {
+    "title": "Allergic Reaction",
+    "identify": "Rash, swelling, itching, difficulty breathing",
+    "immediate_steps": [
+      "Remove trigger if known",
+      "Give antihistamine if available",
+      "Monitor breathing"
+    ],
+    "avoid": [
+      "Do not ignore swelling or breathing difficulty"
+    ],
+    "emergency": "Call emergency if severe reaction or breathing problems occur",
+    "source": "NHS"
+  },
+  {
+    "title": "Hypothermia",
+    "identify": "Shivering, cold skin, confusion, slow breathing",
+    "immediate_steps": [
+      "Move to a warm place",
+      "Remove wet clothing",
+      "Warm gradually using blankets"
+    ],
+    "avoid": [
+      "Do not use direct heat",
+      "Do not rub skin harshly"
+    ],
+    "emergency": "Seek medical help immediately",
+    "source": "NHS"
+  },
+  {
+    "title": "Sprains and Strains",
+    "identify": "Pain, swelling, limited movement",
+    "immediate_steps": [
+      "Rest the injured area",
+      "Apply ice pack",
+      "Compress with bandage",
+      "Elevate if possible"
+    ],
+    "avoid": [
+      "Do not continue using injured area",
+      "Do not apply heat immediately"
+    ],
+    "emergency": "Seek help if pain is severe or swelling increases",
+    "source": "NHS"
+  },
+  {
+    "title": "Chest Pain",
+    "identify": "Tightness or pain in chest, may spread to arm or jaw",
+    "immediate_steps": [
+      "Help the person sit and rest",
+      "Loosen tight clothing",
+      "Call emergency immediately"
+    ],
+    "avoid": [
+      "Do not ignore symptoms",
+      "Do not delay calling help"
+    ],
+    "emergency": "Immediate medical attention required (possible heart attack)",
+    "source": "NHS"
+  },
+  {
+    "title": "Cuts and Grazes",
+    "identify": "Broken skin, minor bleeding, pain around wound",
+    "immediate_steps": [
+      "Clean the wound under running water",
+      "Pat dry",
+      "Apply antiseptic and cover with sterile dressing"
+    ],
+    "avoid": [
+      "Do not touch wound with dirty hands",
+      "Do not leave it uncovered if deep"
+    ],
+    "emergency": "Seek help if wound is deep, bleeding heavily, or shows signs of infection",
+    "source": "NHS"
+  },
+  {
+    "title": "Insect Bites and Stings",
+    "identify": "Redness, swelling, itching or pain at bite site",
+    "immediate_steps": [
+      "Wash the area with soap and water",
+      "Apply a cold compress to reduce swelling"
+    ],
+    "avoid": [
+      "Do not scratch the area",
+      "Do not apply unknown substances"
+    ],
+    "emergency": "Seek help if severe swelling, breathing difficulty, or allergic reaction occurs",
+    "source": "NHS"
+  },
+  {
+    "title": "Foreign Object in Eye",
+    "identify": "Pain, redness, watering, difficulty opening eye",
+    "immediate_steps": [
+      "Rinse the eye gently with clean water",
+      "Blink to try to remove object"
+    ],
+    "avoid": [
+      "Do not rub the eye",
+      "Do not use sharp objects to remove debris"
+    ],
+    "emergency": "Seek help if object does not come out or vision is affected",
+    "source": "NHS"
+  },
+  {
+    "title": "Dental Injury (Knocked-out Tooth)",
+    "identify": "Missing tooth, bleeding from mouth, pain",
+    "immediate_steps": [
+      "Hold tooth by the crown",
+      "Rinse gently if dirty",
+      "Try to place it back in socket or store in milk"
+    ],
+    "avoid": [
+      "Do not touch the root",
+      "Do not let tooth dry out"
+    ],
+    "emergency": "Seek dental care immediately (within 1 hour)",
+    "source": "NHS"
+  },
+  {
+    "title": "Eye Chemical Exposure",
+    "identify": "Burning sensation, redness, blurred vision",
+    "immediate_steps": [
+      "Rinse eye immediately with clean water for at least 20 minutes",
+      "Keep eye open while flushing"
+    ],
+    "avoid": [
+      "Do not rub the eye",
+      "Do not delay washing"
+    ],
+    "emergency": "Seek immediate medical help after rinsing",
+    "source": "NHS"
+  },
+  {
+    "title": "Diarrhoea and Vomiting",
+    "identify": "Frequent loose stools, vomiting, dehydration",
+    "immediate_steps": [
+      "Give plenty of fluids",
+      "Encourage rest",
+      "Maintain hygiene"
+    ],
+    "avoid": [
+      "Do not give heavy or oily foods",
+      "Do not ignore dehydration signs"
+    ],
+    "emergency": "Seek help if symptoms persist more than 2 days or signs of dehydration appear",
+    "source": "NHS"
+  },
+  {
+    "title": "Sunburn",
+    "identify": "Red, painful skin after sun exposure",
+    "immediate_steps": [
+      "Cool skin with water",
+      "Apply soothing lotion",
+      "Stay hydrated"
+    ],
+    "avoid": [
+      "Do not burst blisters",
+      "Do not expose skin to sun again"
+    ],
+    "emergency": "Seek help if severe blistering or fever occurs",
+    "source": "NHS"
+  },
+  {
+    "title": "Ear Injury",
+    "identify": "Pain, bleeding, hearing difficulty",
+    "immediate_steps": [
+      "Keep the ear clean",
+      "Cover lightly with sterile dressing if bleeding"
+    ],
+    "avoid": [
+      "Do not insert objects into ear",
+      "Do not attempt to clean deeply"
+    ],
+    "emergency": "Seek immediate medical help if severe pain or hearing loss occurs",
+    "source": "NHS"
+  },
+  {
+    "title": "Dehydration",
+    "identify": "Dry mouth, dizziness, dark urine, fatigue",
+    "immediate_steps": [
+      "Give fluids slowly",
+      "Use oral rehydration solutions if available",
+      "Allow rest"
+    ],
+    "avoid": [
+      "Do not give alcohol or caffeine",
+      "Do not ignore symptoms"
+    ],
+    "emergency": "Seek help if confusion, fainting, or severe weakness occurs",
+    "source": "NHS"
+  },
+  {
+    "title": "Panic Attack",
+    "identify": "Rapid heartbeat, sweating, shortness of breath, fear",
+    "immediate_steps": [
+      "Help the person sit comfortably",
+      "Encourage slow breathing",
+      "Reassure them calmly"
+    ],
+    "avoid": [
+      "Do not panic or leave the person alone"
+    ],
+    "emergency": "Seek help if symptoms do not improve or mimic heart attack",
+    "source": "NHS"
+  },
+  {
+    "title": "Animal Bites",
+    "identify": "Broken skin, bleeding, pain, risk of infection",
+    "immediate_steps": [
+      "Wash the wound with running water and soap",
+      "Apply antiseptic and cover with dressing"
+    ],
+    "avoid": [
+      "Do not ignore even small bites",
+      "Do not delay cleaning"
+    ],
+    "emergency": "Seek medical help for deep wounds or unknown animal bites",
+    "source": "NHS"
+  },
+  {
+    "title": "Human Bites",
+    "identify": "Skin break, swelling, redness, pain",
+    "immediate_steps": [
+      "Clean the wound thoroughly",
+      "Apply antiseptic and cover with sterile dressing"
+    ],
+    "avoid": [
+      "Do not ignore bite injuries",
+      "Do not delay treatment"
+    ],
+    "emergency": "Seek medical help due to high infection risk",
+    "source": "NHS"
+  },
+  {
+    "title": "Concussion",
+    "identify": "Headache, confusion, dizziness, memory issues",
+    "immediate_steps": [
+      "Let the person rest",
+      "Monitor symptoms",
+      "Avoid physical activity"
+    ],
+    "avoid": [
+      "Do not allow immediate return to activity",
+      "Do not ignore symptoms"
+    ],
+    "emergency": "Seek help if vomiting, worsening headache, or unconsciousness occurs",
+    "source": "NHS"
+  },
+  {
+    "title": "Back Pain (Acute Injury)",
+    "identify": "Pain in lower or upper back, stiffness, difficulty moving",
+    "immediate_steps": [
+      "Rest the back",
+      "Apply cold or heat packs",
+      "Maintain gentle movement"
+    ],
+    "avoid": [
+      "Do not lift heavy objects",
+      "Do not stay completely inactive for long"
+    ],
+    "emergency": "Seek help if numbness, weakness, or severe pain occurs",
+    "source": "NHS"
+  },
+  {
+    "title": "Migraine",
+    "identify": "Severe headache, sensitivity to light, nausea",
+    "immediate_steps": [
+      "Rest in a quiet, dark room",
+      "Stay hydrated",
+      "Take prescribed medication if available"
+    ],
+    "avoid": [
+      "Do not expose to bright light or loud noise"
+    ],
+    "emergency": "Seek help if symptoms are severe or different from usual",
+    "source": "NHS"
+  },
+  {
+    "title": "Food Poisoning",
+    "identify": "Nausea, vomiting, diarrhoea, stomach cramps",
+    "immediate_steps": [
+      "Drink fluids to stay hydrated",
+      "Rest",
+      "Maintain hygiene"
+    ],
+    "avoid": [
+      "Do not eat heavy or contaminated food",
+      "Do not ignore dehydration"
+    ],
+    "emergency": "Seek help if symptoms are severe or prolonged",
+    "source": "NHS"
+  },
+  {
+    "title": "Nose Injury",
+    "identify": "Pain, swelling, bleeding from nose",
+    "immediate_steps": [
+      "Apply cold compress",
+      "Sit upright and lean forward",
+      "Control bleeding"
+    ],
+    "avoid": [
+      "Do not tilt head backward",
+      "Do not press too hard"
+    ],
+    "emergency": "Seek help if nose appears deformed or bleeding persists",
+    "source": "NHS"
+  },
+  {
+    "title": "Eye Injury (Blunt Trauma)",
+    "identify": "Pain, swelling, bruising around eye, vision issues",
+    "immediate_steps": [
+      "Apply a cold compress gently",
+      "Rest the eye"
+    ],
+    "avoid": [
+      "Do not press on the eye",
+      "Do not rub"
+    ],
+    "emergency": "Seek immediate help if vision is affected",
+    "source": "NHS"
+  },
+  {
+    "title": "Low Blood Sugar (Hypoglycaemia)",
+    "identify": "Sweating, shaking, confusion, dizziness",
+    "immediate_steps": [
+      "Give fast-acting sugar (juice, glucose tablets)",
+      "Allow rest"
+    ],
+    "avoid": [
+      "Do not ignore symptoms",
+      "Do not delay giving sugar"
+    ],
+    "emergency": "Seek help if person becomes unconscious",
+    "source": "NHS"
+  },
+  {
+    "title": "High Fever",
+    "identify": "Body temperature above normal, sweating, chills",
+    "immediate_steps": [
+      "Keep hydrated",
+      "Use light clothing",
+      "Rest"
+    ],
+    "avoid": [
+      "Do not overdress",
+      "Do not ignore persistent fever"
+    ],
+    "emergency": "Seek help if fever is very high or lasts long",
+    "source": "NHS"
+  }
+]
